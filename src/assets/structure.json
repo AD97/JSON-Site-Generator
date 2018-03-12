@@ -1,0 +1,1004 @@
+{
+    "pages": [
+        {
+            "page_id": "home",
+            "title": "",
+            "path": "/home",
+            "page": [
+                {
+                    "type": "rowColumn",
+                    "id": "1",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 1,
+                    "no_of_columns": 1,
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "0",
+                            "img_height": "auto",
+                            "img_width": "40%"
+                        }
+                    ]
+                },
+                {
+                    "type": "rowColumn",
+                    "id": "2",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 1,
+                    "no_of_columns": 1,
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            },
+                            "inversion": "0",
+                            "img_height": "auto",
+                            "img_width": "40%"
+                        }
+                    ]
+                },
+                {
+                    "type": "rowColumn",
+                    "id": "3",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 1,
+                    "no_of_columns": 3,
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle":"Lorem ipsum",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "80px",
+                            "img_width": "80px"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "Lorem ipsum",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "80px",
+                            "img_width": "80px"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "Lorem ipsum",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "80px",
+                            "img_width": "80px"
+                        }
+                    ]
+                },
+                {
+                    "type": "rowColumn",
+                    "id": "4",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 1,
+                    "no_of_columns": 1,
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url":"",
+                                "type": "image"
+                            },
+                            "inversion": "0",
+                            "img_height": "auto",
+                            "img_width": "40%"
+                        }
+                    ]
+                },
+                {
+                    
+                    "type": "carousel",
+                    "id": "5",
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "Profile",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            }
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "Learn",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            }
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "rowColumn",
+                    "id": "6",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 1,
+                    "no_of_columns": 1,
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            },
+                            "inversion": "0",
+                            "img_height": "auto",
+                            "img_width": "40%"
+                        }
+                    ]
+                },
+                {
+                    "type": "rowColumn",
+                    "id": "7",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 1,
+                    "no_of_columns": 3,
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "Profile",
+                            "subtitle": "Free",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "80px",
+                            "img_width": "80px"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "billed/month",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "80px",
+                            "img_width": "80px"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "billed/user annually",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "80px",
+                            "img_width": "80px"
+                        }
+                    ]
+                },
+                {
+                    "type": "rowColumn",
+                    "id": "8",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 1,
+                    "no_of_columns": 1,
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "Lorem ipsum",
+                            "content": "",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "0",
+                            "img_height": "auto",
+                            "img_width": "40%"
+                        }
+                    ]
+                } 
+            ]
+        },
+        {
+            "page_id": "item1",
+            "title": "ITEM1",
+            "path": "/item1",
+            "page": [
+                {
+                    "type": "rowColumn",
+                    "id": "1",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 2,
+                    "no_of_columns": 1,
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "0",
+                            "img_height": "auto",
+                            "img_width": "40%"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            },
+                            "inversion": "0",
+                            "img_height": "auto",
+                            "img_width": "40%"
+                        }
+                    ]
+                },
+                {
+                    "type": "rowColumn",
+                    "id": "2",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 1,
+                    "no_of_columns": 3,
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "Lorem ipsum",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "80px",
+                            "img_width": "80px"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "Lorem ipsum",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "80px",
+                            "img_width": "80px"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "Lorem ipsum",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "80px",
+                            "img_width": "80px"
+                        }
+                    ]
+                },
+                {
+                    "type": "rowColumn",
+                    "id": "3",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 2,
+                    "no_of_columns": 1,
+                    "cards": [
+                        {
+                            "type": "bullets",
+                            "title": "Lorem ipsum",
+                            "subtitle": "",
+                            "content": [
+                                "Lorem ipsum",
+                                "Lorem ipsum",
+                                "Lorem ipsum",
+                                "Lorem ipsum"
+                            ],
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "img_height": "40%",
+                            "img_width": "40%"
+                        },
+                        {
+                            "type": "form",
+                            "title": "Register",
+                            "subtitle": "",
+                            "content": "",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            },
+                            "button": "Register"
+                        }
+                    ]
+                },
+                {
+                    "type": "carousel",
+                    "id": "4",
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            }
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            }
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "page_id": "item2",
+            "title": "ITEM2",
+            "path": "/item2",
+            "page": [
+                {
+                    "type": "rowColumn",
+                    "id": "1",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 1,
+                    "no_of_columns": 1,
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "0",
+                            "img_height": "auto",
+                            "img_width": "40%"
+                        }
+                    ]
+                },
+                {
+                    "type": "rowColumn",
+                    "id": "2",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 1,
+                    "no_of_columns": 2,
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "40px",
+                            "img_width": "40px"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "40px",
+                            "img_width": "40px"
+                        }
+                    ]
+                },
+                {
+                    "type": "rowColumn",
+                    "id": "3",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 1,
+                    "no_of_columns": 1,
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "content": "Lorem ipsum",
+                            "subtitle": "",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            },
+                            "inversion": "0",
+                            "img_height": "auto",
+                            "img_width": "40%"
+                        }
+                    ]
+                },
+                {
+                    "type": "features",
+                    "id": "4",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 3,
+                    "no_of_columns": 2,
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "Lorem ipsum",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "40px",
+                            "img_width": "40px"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "Lorem ipsum",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "40px",
+                            "img_width": "40px"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "Lorem ipsum",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "40px",
+                            "img_width": "40px"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "",
+                            "content": "",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "img_height": "600px",
+                            "img_width": "300px"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "Lorem ipsum",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "40px",
+                            "img_width": "40px"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "Lorem ipsum",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "40px",
+                            "img_width": "40px"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "Lorem ipsum",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "40px",
+                            "img_width": "40px"
+                        }
+                    ]
+                },
+                {
+                    "type": "carousel",
+                    "id": "5",
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            }
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            }
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "page_id": "item3",
+            "title": "ITEM3",
+            "path": "/item3",
+            "page": [
+                {
+                    "type": "rowColumn",
+                    "id": "1",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 2,
+                    "no_of_columns": 1,
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "0",
+                            "img_height": "auto",
+                            "img_width": "40%"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            },
+                            "inversion": "0",
+                            "img_height": "auto",
+                            "img_width": "40%"
+                        }
+                    ]
+                },
+                {
+                    "type": "rowColumn",
+                    "id": "2",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 1,
+                    "no_of_columns": 3,
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "Lorem ipsum",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "80px",
+                            "img_width": "80px"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "Lorem ipsum",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "80px",
+                            "img_width": "80px"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "Lorem ipsum",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "80px",
+                            "img_width": "80px"
+                        }
+                    ]
+                },
+                {
+                    "type": "rowColumn",
+                    "id": "3",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 2,
+                    "no_of_columns": 1,
+                    "cards": [
+                        {
+                            "type": "bullets",
+                            "title": "How Easily",
+                            "subtitle": "",
+                            "content": [
+                                "Lorem ipsum",
+                                "Lorem ipsum",
+                                "Lorem ipsum",
+                                "Lorem ipsum",
+                                "Lorem ipsum"
+                            ],
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "img_height": "40%",
+                            "img_width": "40%"
+                        },
+                        {
+                            "type": "form",
+                            "title": "Register",
+                            "subtitle": "",
+                            "content": "",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            },
+                            "button": "Register"
+                        }
+                    ]
+                },
+                {
+                    "type": "carousel",
+                    "id": "4",
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            }
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            }
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "page_id": "item4",
+            "title": "ITEM4",
+            "path": "/item4",
+            "page": [
+                {
+                    "type": "rowColumn",
+                    "id": "1",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 3,
+                    "no_of_columns": 1,
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "0",
+                            "img_height": "auto",
+                            "img_width": "65%"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "https://www.youtube.com/embed/",
+                                "id": "C0DPdy98e4c",
+                                "type": "video"
+                            },
+                            "inversion": "0",
+                            "img_height": "auto",
+                            "img_width": "65%"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            },
+                            "inversion": "0",
+                            "img_height": "auto",
+                            "img_width": "40%"
+                        }
+                    ]
+                },
+                {
+                    "type": "carousel",
+                    "id": "2",
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            }
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            }
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "Content",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            }
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "Lorem ipsum",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            }
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "Audience",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "rowColumn",
+                    "id": "3",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 1,
+                    "no_of_columns": 1,
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "",
+                                "type": "image"
+                            },
+                            "inversion": "0",
+                            "img_height": "auto",
+                            "img_width": "40%"
+                        }
+                    ]
+                },
+                {
+                    "type": "rowColumn",
+                    "id": "4",
+                    "title": "",
+                    "subtitle": "",
+                    "no_of_rows": 1,
+                    "no_of_columns": 3,
+                    "cards": [
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "Lorem ipsum",
+                            "content": "Lorem ipsum ",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "80px",
+                            "img_width": "80px"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "Lorem ipsum",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "80px",
+                            "img_width": "80px"
+                        },
+                        {
+                            "type": "stacked",
+                            "title": "",
+                            "subtitle": "Lorem ipsum",
+                            "content": "Lorem ipsum",
+                            "media": {
+                                "url": "../../../../assets/images/angular.png",
+                                "type": "image"
+                            },
+                            "inversion": "-2",
+                            "img_height": "80px",
+                            "img_width": "80px"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

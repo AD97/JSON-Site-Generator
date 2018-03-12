@@ -1,0 +1,26 @@
+<div *ngIf="section.type==='rowColumn'" fxLayout="row" fxLayout.xs="column" fxLayoutAlign.xs="center center" fxLayoutWrap>
+    <div *ngFor="let card of section.cards" fxFlex="{{100/cols}}%">
+        <app-stacked *ngIf="card.type==='stacked'" [card]="card"></app-stacked>
+        <app-bullets *ngIf="card.type==='bullets'" [card]="card"></app-bullets>
+        <app-form *ngIf="card.type==='form'" [card]="card"></app-form>
+    </div>
+</div>
+
+<div *ngIf="section.type==='carousel'">
+    <app-carousel [items]="section.cards"></app-carousel>
+</div>
+
+<div *ngIf="section.type==='features'" fxLayout="row" fxLayoutAlign="center stretch" fxLayout.sm="column" fxLayoutAlign.sm="center center"
+    fxLayout.xs="column" fxLayoutAlign.xs="center center">
+    <div fxLayout="column">
+        <div *ngFor="let card of section.cards;let i=index">
+            <app-stacked *ngIf="i<rows" [card]="card"></app-stacked>
+        </div>
+    </div>
+    <app-stacked fxFlex="50%" [card]="section.cards[rows]"></app-stacked>
+    <div fxLayout="column">
+        <div *ngFor="let card of section.cards;let i=index">
+            <app-stacked *ngIf="i>rows" [card]="card"></app-stacked>
+        </div>
+    </div>
+</div>

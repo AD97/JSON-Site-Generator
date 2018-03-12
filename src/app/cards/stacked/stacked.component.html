@@ -1,0 +1,13 @@
+<mat-card fxFlexFill fxLayout="column" fxLayoutAlign="stretch center" class="stacked, animate">
+  <mat-card-header>
+    <mat-card-title class="typography">{{card.title}}</mat-card-title>
+    <mat-card-subtitle class="subtitle_typo">{{card.subtitle}}</mat-card-subtitle>
+  </mat-card-header>
+  <mat-card-content class="content_typo">
+    <p>
+      {{card.content}}
+    </p>
+  </mat-card-content>
+  <img *ngIf="card.media.type==='image'" attr.data-width="{{card.img_width}}" fxFlexOrder="{{card.inversion}}" src={{card.media.url}}>
+  <iframe *ngIf="card.media.type==='video'" width="560" height="315" [src]="url" frameborder="0" allowfullscreen></iframe>
+</mat-card>

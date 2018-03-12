@@ -1,0 +1,16 @@
+<mat-toolbar fxLayout.xs="row" fxLayoutGap.xs="80%" fxLayoutAlign=" center stretch" color="primary" [ngClass]="{'header_nav':true, 'header_nav--big':!isShrunk, 'header_nav--small':isShrunk}">
+    <button mat-icon-button (click)="page(links[0])">
+        <img src={{logo_src}} height="40px" width="40px">
+    </button>
+    <button class="menu" mat-icon-button fxShow="false" fxShow.xs="true" [matMenuTriggerFor]="appMenu">
+        <mat-icon>menu</mat-icon>
+    </button>
+    <div class="container">
+        <button class="menu" mat-button fxShow="true" fxShow.xs="false" *ngFor="let link of links" (click)="page(link)">{{link.title}} </button>
+    </div>
+</mat-toolbar>
+
+
+<mat-menu #appMenu="matMenu">
+    <button class="menu" mat-menu-item *ngFor="let link of links" (click)="page(link)">{{link.title}} </button>
+</mat-menu>

@@ -1,0 +1,32 @@
+<div id="container">
+    <div ng2-carouselamos class="slides-wrapper" [items]="items" [width]="900" [$prev]="prev" [$next]="next" [$item]="item">
+    </div>
+
+
+    <ng-template #prev>
+        <i class="material-icons">keyboard_arrow_left</i>
+    </ng-template>
+    <ng-template #next>
+        <i class="material-icons">keyboard_arrow_right</i>
+    </ng-template>
+    <ng-template #item let-item let-i="index">
+
+        <div class="items">
+            <app-stacked [card]="item"></app-stacked>
+        </div>
+
+    </ng-template>
+
+    <!-- <div class="carousel">
+
+  <ul class="slides">
+
+    <li *ngFor="let item of images">
+      <h2>{{image.title}}</h2>
+      <img src="{{image.url}}" alt="">
+    </li>
+
+   
+  </ul>
+
+</div> -->
