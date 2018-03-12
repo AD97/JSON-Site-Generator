@@ -28,4 +28,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # JSON-Site-Generator
 Generate static sites by modifying the json alone.
->>>>>>> 3874f34b19bf81fec95281970e57a43ae98ed316
